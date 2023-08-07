@@ -1,0 +1,14 @@
+*
+
+!.gitignore
+
+!.eslintrc.json
+!.vscodeignore
+
+!package.json
+!package-lock.json
+
+!tsconfig.json
+
+!/src
+!/src/*
